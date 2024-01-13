@@ -1,8 +1,8 @@
 ##################################################################
 # Board PID # Board Name       # PRODUCT # Note
 ##################################################################
-# MI-4C   # Xiaomi Mi 4C   # MT7628  #
+# MI-3      # Xiaomi MiWiFi 3  # MT7620  #
 ##################################################################
 
-CFLAGS += -DBOARD_MI4C
-BOARD_NUM_USB_PORTS=0
+CFLAGS += -DBOARD_MI3
+BOARD_NUM_USB_PORTS=1

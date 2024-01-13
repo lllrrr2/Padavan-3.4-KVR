@@ -1,8 +1,8 @@
 ##################################################################
-# Board PID # Board Name       # PRODUCT # Note
+# Board PID   # Board Name        # PRODUCT # Note
 ##################################################################
-# MI-4C   # Xiaomi Mi 4C   # MT7628  #
+# HC5861     # HC5861           # MT7620  #
 ##################################################################
 
-CFLAGS += -DBOARD_MI4C
-BOARD_NUM_USB_PORTS=0
+CFLAGS += -DBOARD_HC5861
+BOARD_NUM_USB_PORTS=1
